@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react","spectrum_comments/comment_editor/components/post_button"],function(e,t,n,o,r){"use strict";function c(e){var t=e.children,c=n.__rest(e,["children"]);return o.createElement("div",{className:"sc-comment-editor-controls-container"},o.createElement("div",{className:"sc-comment-editor-controls"},t,o.createElement(r.PostButton,n.__assign({},c))))}Object.defineProperty(t,"__esModule",{value:!0}),t.PostBar=c});
+//# sourceMappingURL=post_bar.min.js-vflDfykfv.map

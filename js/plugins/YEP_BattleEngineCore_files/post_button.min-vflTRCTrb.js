@@ -1,0 +1,2 @@
+define(["require","exports","react","spectrum/button"],function(t,e,o,n){"use strict";function s(t){var e=t.buttonLabel,s=t.isEmpty,r=t.signals.post;return o.createElement(n.Button,{className:"sc-comment-editor-controls-post",disabled:s,onClick:r},e)}Object.defineProperty(e,"__esModule",{value:!0}),e.PostButton=s});
+//# sourceMappingURL=post_button.min.js-vflfm4xG6.map
